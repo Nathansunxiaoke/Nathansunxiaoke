@@ -12,7 +12,7 @@ github_repo: "https://github.com/Nathansunxiaoke/Nathansunxiaoke.github.io.git" 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "IF NOT NOW,WHEN?"
-sidebar-avatar: img/about_me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about_me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
