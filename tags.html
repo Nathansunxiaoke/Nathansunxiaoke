@@ -1,7 +1,7 @@
 ---
 title: Tags
 layout: default
-description: keep hungry keep foolish
+description: A Bettler Life
 header-img: "img/tag-bg.jpg"
 ---
 
@@ -27,6 +27,16 @@ header-img: "img/tag-bg.jpg"
 			<div id='tag_cloud' class="tags">
 				{% for tag in site.tags %}
 				<a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
+				<a href="#Blog" title="Blog" rel="">Blog</a>
+				<a href="#博客" title="博客" rel="">博客</a>
+				<a href="#开源框架" title="开源框架" rel="">开源框架</a>
+				<a href="#Git" title="Git" rel="">Git</a>
+
+				<a href="#C/C++" title="C/C++" rel="">Git</a>
+				<a href="#Python" title="Python" rel="">Python</a>
+				<a href="#知乎" title="知乎" rel="">知乎</a>
+
+
 				{% endfor %}
 			</div>
 
