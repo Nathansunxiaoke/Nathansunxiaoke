@@ -102,7 +102,7 @@ friends: [
         title: "Github",
         href: "https://github.com/explore/"
     },
-    {   title:"Leetcode",
+    {   title: "Leetcode",
         href: "https://leetcode.com/"
      }
 ]
