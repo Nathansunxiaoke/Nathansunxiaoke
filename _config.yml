@@ -96,13 +96,13 @@ service-worker: true
 
 
 
-# Friends
-#friends: [
-#    {
-#        title: "WY",
-#        href: "http://zhengwuyang.com"
-#   },{
-#       title: "简书·BY",
-#       href: "http://www.jianshu.com/u/e71990ada2fd"
-#   },
-#]
+Friends
+friends: [
+    {
+        title: "Github",
+        href: "https://github.com/explore"
+   },
+    {   title:"Leetcode"
+        href: "https://leetcode.com/"
+   }
+]
