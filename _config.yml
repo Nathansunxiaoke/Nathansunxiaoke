@@ -96,11 +96,11 @@ service-worker: true
 
 
 
-Friends
+# Friends
 friends: [
     {
         title: "Github",
-        href: "https://github.com/explore"
+        href: "https://github.com/explore/"
    },
     {   title:"Leetcode"
         href: "https://leetcode.com/"
