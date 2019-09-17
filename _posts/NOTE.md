@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      NOTE
+subtitle:   NOTE
+date:       2019-09-17
+author:     Nathan
+header-img: img/post-bg-ios9-web.jpg
+catalog: 	 true
+tags:
+    - NOTE
+    - NOTE
+---
 1.liunx编译过程:
 				
 			C语言   .c    ---> .exe ?
