@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: ybsun.nathansunxiaoke@gmail.com
 description: "天行健，君子以自强不息；地势坤，君子以厚德载物。"
 keyword: "孙永兵, Nathan Blog, Nathan的博客, sunyongbing"
-url: "https://nathansunxiaoke.github.io"          # your host, for absolute URL
+url: "https://nathan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/sun-yongbing/Nathansunxiaoke.github.io.git" # you code repository
 
